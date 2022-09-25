@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ma4mls on Think like Computer Scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/ma4ml/</link>
+    <description>Recent content in Ma4mls on Think like Computer Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Mon, 30 Aug 2021 14:57:52 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/ma4ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Generall mathematical picture behind Machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/2.component-maths-in-machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/2.component-maths-in-machine-learning/</guid>
+      <description>Introduction to post &amp;hellip;
+Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+    <item>
+      <title>3. Linear algebra in Machine learning - Overview picture</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/3.linear_algebra-part1/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/3.linear_algebra-part1/</guid>
+      <description>A general overview of Linear algebra in Machine Learning
+1. Linear algebra ABC
+2. Vital role of Linear algebra in Machine learning CDE
+3. Main component in linear algebra JHG</description>
+    </item>
+    
+    <item>
+      <title>Overview machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/2.overview-machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/2.overview-machine-learning/</guid>
+      <description>The biggest problem for people who study about machine learning is the mathematical foundation under machine learning surface. Actually, we can learn math for ML before getting into machine learning area, but It is very boring because you don&amp;rsquo;t see how math theory work in machine learning. Only onething you find that It&amp;rsquo;s is just like classical math classroom which sitting in high school. Therefore, how we build a strong mathematical foundation and still affair about classical theory ?</description>
+    </item>
+    
+    <item>
+      <title>Why we need to understand Math before Machine learning ?</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/1.why-we-need-math/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/1.why-we-need-math/</guid>
+      <description>In this article, I want share with you how Machine learning and Mathemtical related together. Besides, Why we need learning Math before doing or learning Machine learning ? But first of all, we need to know how math important impact on our life.
+We were tought about Math when we were a child. And it follow we up to we envolve to high school and after that college. I learnt many mathematical topics that help me passed the examimations during high school and also college.</description>
+    </item>
+    
+  </channel>
+</rss>

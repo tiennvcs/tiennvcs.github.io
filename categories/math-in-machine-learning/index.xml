@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math in Machine learning on Think like Computer Scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/categories/math-in-machine-learning/</link>
+    <description>Recent content in Math in Machine learning on Think like Computer Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Mon, 30 Aug 2021 14:57:52 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/categories/math-in-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Linear algebra in Machine learning - Overview picture</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/3.linear_algebra-part1/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/3.linear_algebra-part1/</guid>
+      <description>A general overview of Linear algebra in Machine Learning
+1. Linear algebra ABC
+2. Vital role of Linear algebra in Machine learning CDE
+3. Main component in linear algebra JHG</description>
+    </item>
+    
+  </channel>
+</rss>

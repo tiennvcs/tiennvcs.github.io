@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Think like Computer Scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/categories/</link>
+    <description>Recent content in Categories on Think like Computer Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Mon, 30 Aug 2021 14:57:52 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/categories/machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math for Machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/categories/math-for-machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/categories/math-for-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math in Machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/categories/math-in-machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/categories/math-in-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

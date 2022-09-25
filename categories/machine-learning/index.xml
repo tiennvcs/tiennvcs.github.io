@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning on Think like Computer Scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/categories/machine-learning/</link>
+    <description>Recent content in Machine learning on Think like Computer Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Mon, 30 Aug 2021 14:57:52 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview machine learning</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/2.overview-machine-learning/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/2.overview-machine-learning/</guid>
+      <description>The biggest problem for people who study about machine learning is the mathematical foundation under machine learning surface. Actually, we can learn math for ML before getting into machine learning area, but It is very boring because you don&amp;rsquo;t see how math theory work in machine learning. Only onething you find that It&amp;rsquo;s is just like classical math classroom which sitting in high school. Therefore, how we build a strong mathematical foundation and still affair about classical theory ?</description>
+    </item>
+    
+  </channel>
+</rss>
