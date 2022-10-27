@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Think like Computer Scientist</title>
+    <title>CSist</title>
     <link>https://tiennvcs.github.io/</link>
-    <description>Recent content on Think like Computer Scientist</description>
+    <description>Recent content on CSist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us-vi</language><atom:link href="https://tiennvcs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
