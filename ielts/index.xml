@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ielts on CSist</title>
+    <link>https://tiennvcs.github.io/ielts/</link>
+    <description>Recent content in Ielts on CSist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Wed, 22 Mar 2023 12:58:18 +0700</lastBuildDate><atom:link href="https://tiennvcs.github.io/ielts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IELTS: An overview</title>
+      <link>https://tiennvcs.github.io/ielts/introduction_to_ielts/</link>
+      <pubDate>Wed, 22 Mar 2023 12:58:18 +0700</pubDate>
+      
+      <guid>https://tiennvcs.github.io/ielts/introduction_to_ielts/</guid>
+      <description>When I started to apply to a graduate program, I got stuck with the English certificate requirement. Currently, I am studying for IELTS and being prepared for the upcoming exam so I think one of the best ways to learn is by sharing. So in this sector, I write anything I learned. Of course, I hope it will be good material for you if you are the one also concerned about IELTS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,23 +5,26 @@
     <link>https://tiennvcs.github.io/</link>
     <description>Recent content on CSist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us-vi</language><atom:link href="https://tiennvcs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us-vi</language>
+    <lastBuildDate>Wed, 22 Mar 2023 12:58:18 +0700</lastBuildDate><atom:link href="https://tiennvcs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IELTS: An overview</title>
+      <link>https://tiennvcs.github.io/ielts/introduction_to_ielts/</link>
+      <pubDate>Wed, 22 Mar 2023 12:58:18 +0700</pubDate>
+      
+      <guid>https://tiennvcs.github.io/ielts/introduction_to_ielts/</guid>
+      <description>When I started to apply to a graduate program, I got stuck with the English certificate requirement. Currently, I am studying for IELTS and being prepared for the upcoming exam so I think one of the best ways to learn is by sharing. So in this sector, I write anything I learned. Of course, I hope it will be good material for you if you are the one also concerned about IELTS.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://tiennvcs.github.io/about/</link>
       <pubDate>Mon, 26 Sep 2022 14:00:05 +0700</pubDate>
       
       <guid>https://tiennvcs.github.io/about/</guid>
-      <description>Educations B.S. Honor program in Computer Science from Vietnam National University, Ho Chi Minh City - University of Information Technology(VNUHCM-UIT) (2018-2022). Experiences AI research engineer at Viettel High Technology Industries Corporation (VHT), Vietnam (3/2022-current). Teacher assistant in at University of Information Technology(VNUHCM-UIT) (11/2021-3/2022). Research practitioner at University of Information Technology(VNUHCM-UIT) (2019-2022). Miscellaneous My CV is available at here. In three continous years (2019, 2020, 2021), I got &amp;ldquo;Student of 5 merits&amp;rdquo; achievement by the University of Information Technology.</description>
-    </item>
-    
-    <item>
-      <title>Public</title>
-      <link>https://tiennvcs.github.io/public/</link>
-      <pubDate>Mon, 26 Sep 2022 13:58:15 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/public/</guid>
-      <description>Conferences 2021 M. Tran, T. Pham, T. Nguyen, T. Do and T. N. Duc, &amp;ldquo;A robust framework for mathematical formula detection,&amp;rdquo; 2021 International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2021, pp. 1-6, doi: 10.1109/MAPR53640.2021.9585197.</description>
+      <description>Educations  2018-2022 B.S. Honor program in Computer Science from Vietnam National University, Ho Chi Minh City - University of Information Technology(VNUHCM-UIT).
+Publications  2021 M. Tran, T. Pham, T. Nguyen, T. Do and T. N. Duc, &amp;ldquo;A robust framework for mathematical formula detection,&amp;rdquo; 2021 International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2021, pp. 1-6, doi: 10.1109/MAPR53640.2021.9585197.
+Vietnamese Patent  2022 Trien Thai, T. Nguyen, Tuan Nguyen. 2022. Phương pháp xác định vị trí tàu biển gặp nạn (English title: Detecting the ship in distress based on optical satellite images and automatic identity system signal).</description>
     </item>
     
     <item>
@@ -30,9 +33,8 @@
       <pubDate>Mon, 26 Sep 2022 13:56:15 +0700</pubDate>
       
       <guid>https://tiennvcs.github.io/project/</guid>
-      <description>2022 Evaluate some deep learning methods for infographic visual question answering. (Bachelor&amp;rsquo;s thesis) code | report 2021 Estimate solutions of system of non-linear equations using Newton Raphson.
-code | report Instance search in image using DEep Local Features (DELF) code | report 2020 Detect failing bottle caps from stream camera video in industry. code | report Object detection implementation using Yolo and Capsule Network.
-code | report Comparing compression algorithm on text data.</description>
+      <description>2022   Evaluate some deep learning methods for infographic visual question answering. (Bachelor&amp;rsquo;s thesis) code | report  2021   Estimate solutions of system of non-linear equations using Newton Raphson.
+code | report Instance search in image using DEep Local Features (DELF) code | report  2020   Detect failing bottle caps from stream camera video in industry. code | report Object detection implementation using Yolo and Capsule Network.</description>
     </item>
     
   </channel>
