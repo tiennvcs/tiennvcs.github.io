@@ -73,7 +73,7 @@ Task 2. Some people believe that governments should pay full course fees for stu
     </item>
     
     <item>
-      <title>About</title>
+      <title>Tien Nguyen</title>
       <link>https://tiennvcs.github.io/about/</link>
       <pubDate>Mon, 26 Sep 2022 14:00:05 +0700</pubDate>
       
@@ -90,7 +90,7 @@ Vietnamese Patent  2022 Trien Thai, T. Nguyen, Tuan Nguyen. 2022. Phương pháp
       
       <guid>https://tiennvcs.github.io/project/</guid>
       <description>2022   Evaluate some deep learning methods for infographic visual question answering. (Bachelor&amp;rsquo;s thesis) code | report  2021   Estimate solutions of system of non-linear equations using Newton Raphson.
-code | report Instance search in image using DEep Local Features (DELF) code | report  2020   Detect failing bottle caps from stream camera video in industry. code | report Object detection implementation using Yolo and Capsule Network.</description>
+code | report Instance search in image using DEep Local Features (DELF) code | report  2020   Detect failing bottle caps from industrial camera stream. code | report Object detection implementation using Yolo and Capsule Network.</description>
     </item>
     
   </channel>
