@@ -1,224 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CSist</title>
+    <title>CIST</title>
     <link>https://tiennvcs.github.io/</link>
-    <description>Recent content on CSist</description>
+    <description>Recent content on CIST</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us-vi</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:21:34 +0700</lastBuildDate><atom:link href="https://tiennvcs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 22:29:58 -0600</lastBuildDate><atom:link href="https://tiennvcs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Writing Task II - Agree/Disagree: printed books are replaced by digital online reading.</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_agree_disagree_3/</link>
-      <pubDate>Tue, 11 Apr 2023 00:21:34 +0700</pubDate>
+      <title>About me</title>
+      <link>https://tiennvcs.github.io/about/aboutme/</link>
+      <pubDate>Mon, 15 Jan 2024 16:18:38 -0600</pubDate>
       
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_agree_disagree_3/</guid>
-      <description>In the future, nobody will buy printed newspapers or books because they will be able to read everything, they want online without paying.
-To what extent do you agree or disagree with this statement?
-Give reasons for your answer and include any relevant examples from your own knowledge or experience.
-Write at least 250 words.
-Complete essay  One of the most controversial issues today relates to online reading, which dominates printed newspapers or books in the future.</description>
-    </item>
-    
-    <item>
-      <title>Writing task I - Time-based chart: numbers of tourists</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_4/</link>
-      <pubDate>Mon, 10 Apr 2023 23:28:57 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_4/</guid>
-      <description>The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017.
-Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
-Complete answer   The graph illustrates the number of tourists travelling a specific Caribbean island in million unit between 2010 and 2017.
-  From an overall perspective, the numbers of people visiting a Caribbean island all varied with different proportions in the 2010-2017 period.</description>
-    </item>
-    
-    <item>
-      <title>Writing task 2 - Discuss both views and give your opinion: Money is important part</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_discuss_both_views_opinion_3/</link>
-      <pubDate>Sun, 09 Apr 2023 22:40:14 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_discuss_both_views_opinion_3/</guid>
-      <description>Some people believe that salary is the most important part of jobs. However, others think that there are other more important factors. Discuss both views and give your opinion.
-Complete essay  One of the most controversial issues today relates to the most important part of salary of jobs. There are, however, some people who hold the belief which revolves around other essential factors. The opposing opinions relating to such concern should be thoroughly discussed and some personal ideas should also be introduced.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II - Discuss both views and give your opinion: Using mobile phones in children</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_discuss_both_views_opinion_children_using_mobile_phone/</link>
-      <pubDate>Fri, 07 Apr 2023 08:45:36 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_discuss_both_views_opinion_children_using_mobile_phone/</guid>
-      <description>Some people think that children can use mobile phones for their interests. However, others think that it is very harmful. Discuss both views and give your opinion.
-My essay  One of the most controversial issues today relates to the approval of using mobiles of children. There are, however, some people hold the belief which revolves around the harmful impact of using mobile phones. The opposing views should be thoroughly considered and some personal ideas should also be introduced.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II - Non-based time chart</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_non-based-time_chart/</link>
-      <pubDate>Thu, 06 Apr 2023 17:40:13 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_non-based-time_chart/</guid>
-      <description>This post will deal with the non-based time chart question type in IELTS writing task I.
-Question You should spend about 20 minutes on this task.
-The chart below shows the results of a survey about people&amp;rsquo;s coffee and tea buying and drinking habits in five Australian cities.
-Summarise the information by selecting and reporting the main features, and make comparisons where relevant
-Write at least 250 words.
-Complete answer  The chart illustrate the results of a survey about coffee and tea consuming habits conducting on five different cities in Australia.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II: Causes and effects</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_cause_effect/</link>
-      <pubDate>Wed, 05 Apr 2023 18:08:39 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_cause_effect/</guid>
-      <description>Causes and effects type is one of the important question types in IELTS writing task II. This post will give step-by-step to solve it.
-Question and outline  Task II
-The problem of domestic violence is getting more rampant. What are the causes and effects?
-Write at least 250 words
-So the given issue is &amp;ldquo;the increase in domestic violence&amp;rdquo;. We are enquired to give causes, which means why domestic violence is more rampant and give some effects (usually negative) result from this trend.</description>
-    </item>
-    
-    <item>
-      <title>Writing task I - Time-based chart and non-time-based figures: export earnings</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_3/</link>
-      <pubDate>Tue, 04 Apr 2023 23:02:11 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_3/</guid>
-      <description>The chart below shows the value of one country&amp;rsquo;s exports in various categories during 2015 and 2016. The table shows the percentage change in each category of exports in 2016 compared with 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
-Complete answer  The chart and table illustrate the exports value in various types of one country in billions of dollars and the changing ratio between 2015 and 2016.</description>
-    </item>
-    
-    <item>
-      <title>Writing task I: Describe a process</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_describe_process/</link>
-      <pubDate>Sun, 02 Apr 2023 23:19:57 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_describe_process/</guid>
-      <description>Process description is one of the types of questions in IELTS writing task I. This post introduces step-by-step tackling this issue.
-Question and outline  The diagram below shows how banana chips are made.
-Summarise the information by selecting and reporting the main features and make comparisons where relevant.
-Similar to other types of questions in Writing task II, the answer has 3 sections below.
-  Introductory section
- A single-sentence restatement about the process given in the question.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II: Practice exercise 3</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_3/</link>
-      <pubDate>Sun, 02 Apr 2023 23:14:14 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_3/</guid>
-      <description>Let&amp;rsquo;s practice these questions for better writing task II.
-Questions   Làn sóng người tị nạn đến từ các bị chiến tranh tàn phá đang là gánh nặng cho thế giới.   Món quà ý nghĩa nhất dành cho cho mẹ đó chính là sự thành công và hạnh phúc của con cái.   Tha thứ và cách tốt nhất để xóa bỏ hận thù.   Người già trong xã hội thường là nạn nhân của sự bỏ bê và ghẻ lạnh của con cái.</description>
-    </item>
-    
-    <item>
-      <title>Writing task I - Time-based chart and non-time-based figures</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_2/</link>
-      <pubDate>Sun, 02 Apr 2023 16:31:30 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart_2/</guid>
-      <description>Continue the previous post about writing task I. This post shows a question about a time-based chart, but it would be more complex because of including non-time-based figures represented under a table.
-Question, outline, and essential sentence structures  You should spend about 20 minutes on this task.
-The graph and table below show the average monthly temperatures and the average number of hours of sunshine per year in three major cities.</description>
-    </item>
-    
-    <item>
-      <title>Writing task I: Time-based chart</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart/</link>
-      <pubDate>Sun, 02 Apr 2023 10:49:40 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_i_based-time_chart/</guid>
-      <description>To begin with, in writing task I in the IELTS exam, we start with dealing with basic question types: given a chart whose figures change over time and our mission is to summarize the information and make relevant comparisons.
-Question, outline, and essential sentence structures  You should spend about 20 minutes on this task.
-The graph below show the average carbon dioxide ($\text{CO}_\text{2}$) emissions per person in the United Kingdom, Sweden, Italy, and Portugal between 1967 and 2007.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II: Practice exercise 2</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_2/</link>
-      <pubDate>Sat, 01 Apr 2023 23:51:50 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_2/</guid>
-      <description>Let&amp;rsquo;s practice these questions for better writing task II.
-Questions   Bạo động vũ trang có thể kích động những phần tử xấu trong xã hội và gây ra những bất ổn không thể cứu chữa.   Những đứa trẻ bị ghẻ lạnh có thể bỏ nhà ra đi mà sẽ dẫn chúng đến một tương lai mịt mù.   Những người phải gánh chịu tình yêu đơn phương sẽ cảm thấy thất vọng bởi vì họ nghĩ rằng họ không thể tìm thấy một mối tình tương xứng nào nữa.</description>
-    </item>
-    
-    <item>
-      <title>Writing task II: Practice exercise</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_1/</link>
-      <pubDate>Sat, 01 Apr 2023 17:56:20 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_sentence_translate_practice_1/</guid>
-      <description>It is easy to think about a complete sentence in your mother tone language but we need to grammatically correctly write English sentences in our essay in writing task II. These practical exercises in this post will enhance our phraseology to be more formal.
-Questions   Những con robot có thể giúp con người làm việc nhà một cách hiệu quả và nhanh chóng nhằm giúp con người có thêm thời gian cho những sở thích cá nhân.</description>
-    </item>
-    
-    <item>
-      <title>Writing Task II - Discuss both views and give your opinion</title>
-      <link>https://tiennvcs.github.io/ielts/wriing_task_ii_discuss_both_views_opinion/</link>
-      <pubDate>Fri, 31 Mar 2023 23:13:59 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/wriing_task_ii_discuss_both_views_opinion/</guid>
-      <description>&amp;ldquo;Discuss both views and give your own opinion&amp;rdquo; is one of the important question types in writing task II. This post aims to give step-by-step to tackle this issue.
-Question and outline  Writing task II
-Some people think that it&amp;rsquo;s important to spend money on family celebrations (e.g., weddings, birthdays). But something expensive celebrations are a waste of money. Discuss both views and give your opinion.
-There are two opposing beliefs given in the question:</description>
-    </item>
-    
-    <item>
-      <title>Writing Task II - Agree/Disagree: Increasing road safety based on increasing the minimum legal age for driving cars or riding motorbikes.</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_argree_disagree_2/</link>
-      <pubDate>Thu, 30 Mar 2023 01:21:50 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_argree_disagree_2/</guid>
-      <description>This post continually shows an agree/disagree question type in Writing task II.
-Question and outline Question
-Some people think that the best way to increase road safety is to increase the minimum legal age for driving cars or riding motorbikes. Do you agree or disagree with this belief?
-Outline
- Agree $\rightarrow$ write the introduction: One of the most controversial issues today relates to the approval of increasing the minimum legal age for driving cars or riding motorbikes in order to ensure road safety.</description>
-    </item>
-    
-    <item>
-      <title>Writing Task II: Agree/disagree 🥵</title>
-      <link>https://tiennvcs.github.io/ielts/writing_task_ii_agree_disagree/</link>
-      <pubDate>Wed, 29 Mar 2023 16:40:50 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/writing_task_ii_agree_disagree/</guid>
-      <description>In IELTS writing task II, you are given a topic and your mission is to write an essay discussing it, and the total length of your answer should be at least 250 words.
-Example and step-by-step to complete this task  Suppose you are dealing with the IELTS writing task II below.
-Task 2. Some people believe that governments should pay full course fees for students who want to study at universities.</description>
-    </item>
-    
-    <item>
-      <title>IELTS: An overview</title>
-      <link>https://tiennvcs.github.io/ielts/introduction_to_ielts/</link>
-      <pubDate>Wed, 22 Mar 2023 12:58:18 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/ielts/introduction_to_ielts/</guid>
-      <description>When I started to apply to a graduate program, I got stuck with the English certificate requirement. Currently, I am studying for IELTS and being prepared for the upcoming exam so I think one of the best ways to learn is by sharing. So in this sector, I write anything I learned. Of course, I hope it will be good material for you if you are the one also concerned about IELTS.</description>
-    </item>
-    
-    <item>
-      <title>Tien Nguyen</title>
-      <link>https://tiennvcs.github.io/about/</link>
-      <pubDate>Mon, 26 Sep 2022 14:00:05 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/about/</guid>
-      <description>Educations  2018-2022 B.S. Honor program in Computer Science from Vietnam National University, Ho Chi Minh City - University of Information Technology(VNUHCM-UIT).
-Publications  2021 M. Tran, T. Pham, T. Nguyen, T. Do and T. N. Duc, &amp;ldquo;A robust framework for mathematical formula detection,&amp;rdquo; 2021 International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2021, pp. 1-6, doi: 10.1109/MAPR53640.2021.9585197.
-Vietnamese Patent  2022 Trien Thai, T. Nguyen, Tuan Nguyen. 2022. Phương pháp xác định vị trí tàu biển gặp nạn (English title: Detecting the ship in distress based on optical satellite images and automatic identity system signal).</description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://tiennvcs.github.io/project/</link>
-      <pubDate>Mon, 26 Sep 2022 13:56:15 +0700</pubDate>
-      
-      <guid>https://tiennvcs.github.io/project/</guid>
-      <description>2022   Evaluate some deep learning methods for infographic visual question answering. (Bachelor&amp;rsquo;s thesis) code | report  2021   Estimate solutions of system of non-linear equations using Newton Raphson.
-code | report Instance search in image using DEep Local Features (DELF) code | report  2020   Detect failing bottle caps from industrial camera stream. code | report Object detection implementation using Yolo and Capsule Network.</description>
+      <guid>https://tiennvcs.github.io/about/aboutme/</guid>
+      <description>Education backgrounds 2023-current
+Ph.D. student in the Electrical Engineering program at the University of Texas at San Antonio (UTSA), US.
+2018-2022
+B.S. Honor program in Computer Science at Vietnam National University, Ho Chi Minh City - University of Information Technology(VNUHCM-UIT).
+Publications Trien Thai, T. Nguyen, Tuan Nguyen. 2022. Phương pháp xác định vị trí tàu biển gặp nạn (English title: Detecting the ship in distress based on optical satellite images and automatic identity system signal).</description>
+      <content:encoded><![CDATA[<h2 id="education-backgrounds">Education backgrounds</h2>
+<hr>
+<p><strong>2023-current</strong></p>
+<p>Ph.D. student in the Electrical Engineering program at the University of Texas at San Antonio (UTSA), US.</p>
+<p><strong>2018-2022</strong></p>
+<p>B.S. Honor program in Computer Science at Vietnam National University, Ho Chi Minh City - University of Information Technology(VNUHCM-UIT).</p>
+<h2 id="publications">Publications</h2>
+<hr>
+<p>Trien Thai, <strong>T. Nguyen</strong>, Tuan Nguyen. 2022. Phương pháp xác định vị trí tàu biển gặp nạn (English title: Detecting the ship in distress based on optical satellite images and automatic identity system signal). Submitted Oct 24, 2022</p>
+<p>M. Tran, T. Pham, <strong>T. Nguyen</strong>, T. Do and T. N. Duc, “A robust framework for mathematical formula detection,” 2021 International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2021, pp. 1-6, doi: 10.1109/MAPR53640.2021.9585197.</p>
+<h2 id="work-experiences">Work experiences</h2>
+<hr>
+<p><strong>2023-current</strong></p>
+<p>Graduate research assisant (GRA) at University of Texas at San Antonio (UTSA).</p>
+<p><strong>2022-2023</strong></p>
+<p>AI research engineer at Viettel High Technology Industries Corporation (VHT), Vietnam.</p>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<hr>
+<ul>
+<li>
+<p>In Oct 2020, gained the consolation prize at the AI CAMERA INSPECTION CHALLENGE organized by The Training Center of Saigon Hi-tech Park (SHTP Training), Vietnam.</p>
+</li>
+<li>
+<p>In 2019, Consolation prize in the Calculus at the National Mathematical Olympiad Competition organized by the Vietnam Mathematical Association.</p>
+</li>
+</ul>
+]]></content:encoded>
     </item>
     
   </channel>

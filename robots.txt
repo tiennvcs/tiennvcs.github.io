@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tiennvcs.github.io/sitemap.xml
